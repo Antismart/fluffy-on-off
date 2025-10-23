@@ -1,0 +1,25 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "orbit pay",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Antismart/fluffy-on-off.git"
+  },
+  "keywords": [
+    "payments",
+    "nodejs",
+    "backend",
+    "api"
+  ],
+  "author": "Antismart",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Antismart/fluffy-on-off/issues"
+  },
+  "homepage": "https://github.com/Antismart/fluffy-on-off#readme"
+}
